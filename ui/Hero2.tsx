@@ -5,6 +5,10 @@ export default function Hero() {
     <div
       className="relative h-screen bg-img bg-overlay text-white"
       style={{ backgroundImage: `url(${src})` }}>
+      <p className="text-700 font-semibold underline underline-offset-4 absolute top-4 left-4">
+        Roi Crm
+      </p>
+
       <div className="abs-center mobile:w-[calc(100%-3rem)]">
         <div className="lg:max-w-2xl text-center mx-auto">
           <h1 className="text-800 font-bold text-pretty">מערכת ייחודית לחברות ומפעלי אלומיניום</h1>
