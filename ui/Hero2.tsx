@@ -39,8 +39,8 @@ export default function Hero() {
       <span className="pop p-0 w-full h-96 lg:w-[900px] lg:h-[600px]" popover="auto" id="video">
         <iframe
           className="size-full"
-          src="https://www.youtube.com/embed/nooXGLyXG30?si=UiE87UqpCVqCyuDd"
-          title="YouTube video player"
+          src="https://www.youtube.com/embed/upY0HdXzBGI?si=1mv86e9WyHSg53K0"
+          title="Roi Crm"
           frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           referrerPolicy="strict-origin-when-cross-origin"
