@@ -49,4 +49,4 @@ export default function Hero() {
     </>
   )
 }
-const src = 'https://images.unsplash.com/photo-1512207736890-6ffed8a84e8d?w=1500'
+const src = 'https://images.unsplash.com/photo-1512207736890-6ffed8a84e8d?w=1000'

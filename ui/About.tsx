@@ -42,4 +42,4 @@ export default function About() {
   )
 }
 
-const src = 'https://images.unsplash.com/photo-1481026469463-66327c86e544?w=1500'
+const src = 'https://images.unsplash.com/photo-1481026469463-66327c86e544?w=1000'
