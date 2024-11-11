@@ -33,7 +33,7 @@ export default function Qna() {
   return (
     <div className="mb-40">
       <h3 className="text-700 mb-4">יתרונות ופתרונות</h3>
-      <div className="grid grid-cols-3 gap-20 ">
+      <div className="grid lg:grid-cols-3 gap-20 ">
         {data.map((item) => (
           <section key={item.title} className=" ">
             <h3 className="text-800 mb-8">{item.title}</h3>
